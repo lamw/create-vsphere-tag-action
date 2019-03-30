@@ -2,7 +2,7 @@ FROM ubuntu
 
 LABEL "com.github.actions.name"="Create vSphere Tag"
 LABEL "com.github.actions.description"="Create a new vSphere Tag"
-LABEL "com.github.actions.icon"="activity"
+LABEL "com.github.actions.icon"="tag"
 LABEL "com.github.actions.color"="green"
 
 LABEL "repository"="https://github.com/lamw/create-vsphere-tag-action"
