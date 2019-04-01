@@ -56,7 +56,7 @@ TAG_CATEGORY=MyTag-Category-Name
 Step 2 - Run the Container
 
 ```
-docker run --rm -it --env-file myEnvFile lamw/create-vsphere-tag"
+docker run --rm -it --env-file myEnvFile lamw/create-vsphere-tag
 ```
 
 If the operation was successful, you should see a message like the following:
